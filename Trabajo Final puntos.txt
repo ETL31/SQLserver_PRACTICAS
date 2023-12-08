@@ -1,0 +1,16 @@
+NOTA DEL TRABAJO FINAL = nota del curso
+
+CRITERIOS
+ - Legible
+ - Coherencia
+ - Entendible
+
+PUNTOS EXTRA
+ - Tarea de los diagramas E/R +1 nota final
+ - Tarea de los queries +1 nota final
+ - Participación en clase
+
+Entregable:
+ - Captura, foto , archivo de los diagramas E/R y modelo lógico
+ - Actividad 3, captura del diagrama de base de datos y el archivo con el que crearon las tablas
+ - Archivo donde hicieron los queries
